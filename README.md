@@ -1,6 +1,6 @@
 # EOR Digital Assets
 ## Description
-Images, logos, and other digital assets for use exclusively for EOR on the web and elsewhere.
+Images, logos, and other digital assets for use exclusively by and for EOR on the web and elsewhere.
 
 ## Use
 ### Via CDN
