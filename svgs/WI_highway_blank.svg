@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25"
+   height="25"
+   viewBox="0 0 6.6145832 6.6145835"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="WI_highway_blank.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="12.443434"
+     inkscape:cx="-5.6254566"
+     inkscape:cy="17.197825"
+     inkscape:window-width="2256"
+     inkscape:window-height="1410"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g59" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="overflow:visible"
+       id="g59"
+       transform="matrix(0.01653646,0,0,0.01653646,0.18505457,0.14263556)">
+      <g
+         id="g38">
+	<g
+   id="g34">
+		<path
+   d="M 0,24 C 0,10.745117 10.745117,0 24,0 h 336 c 13.25488,0 24,10.745117 24,24 v 336 c 0,13.25488 -10.74512,24 -24,24 H 24 C 10.745117,384 0,373.25488 0,360 Z"
+   id="path30" />
+
+		<path
+   d="M 192,192"
+   id="path32" />
+
+	</g>
+
+	<path
+   fill="#ffffff"
+   d="m 356,22 -22,40 h 12 c 16.56836,0 30,13.431641 30,30 v 220 c 0,16.56836 -13.43164,30 -30,30 H 208 l -16,30 -16,-30 H 38 C 21.431152,342 8,328.56836 8,312 V 92 C 8,75.431641 21.431152,62 38,62 H 50 L 28,22 Z"
+   id="path36" />
+
+</g>
+    </g>
+  </g>
+</svg>
